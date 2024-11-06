@@ -1,7 +1,7 @@
 # Site Settings
-title                    : "Weiqi Yan"
-description              : "Member of MAC Group, former ACMer, currently engaging in research related to computer vision field."
-repository               : "Heartfirey/Heartfirey.github.io"
+title                    : "Lvhai Chen"
+description              : "2021 undergraduate student at Jiangxi Normal University,pre-admitted student for the 2025 class at the MAC Lab， former ACMer."
+repository               : "Jormungand00222/Jormungand00222.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -14,14 +14,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weiqi Yan"
-  avatar           : "images/android-chrome-512x512.jpeg"
-  bio              : "Xiamen University"
-  location         : "Xiamen, Fujian, China"
-  employer         : "MAC Lab"
+  name             : "Lvhai Chen"
+  avatar           : "images/1730902240524.jpg"
+  bio              : "Jiangxi Normal University"
+  location         : "Nanchang, Jiangxi, China"
+  employer         : 
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "heartfirey@outlook.com"
+  email            : "18970880043@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -30,7 +30,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HeartFireY"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -41,7 +41,7 @@ author:
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/22086390/heartfire-y"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
