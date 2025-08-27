@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Luhai Chen. I am a master’s student (Class of 2025) at the School of Information, Xiamen University, and I am conducting my studies in the Media Analysis and Computing Group (MAC) at Xiamen University. Additionally, I am the 10th president of the Computer Science Association at Jiangxi Normal University. 
+My name is Lvhai Chen. I am a master’s student (Class of 2025) at the School of Information, Xiamen University, and I am conducting my studies in the Media Analysis and Computing Group (MAC) at Xiamen University. Additionally, I am the 10th president of the Computer Science Association at Jiangxi Normal University. 
 
 
 # 🔥 News
